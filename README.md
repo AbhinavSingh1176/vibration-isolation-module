@@ -1,3 +1,5 @@
+Task for tomorrow: Next, start transmissibility.m in 02_matlab/
+
 # Vibration Isolation Module (VIM)
 
 The Vibration Isolation Module is my first mechanical engineering personal project. I'm using it to develop and learn the skills essential to real product development and real-world problem solving — taking one system from first-principles model all the way to validated hardware.
