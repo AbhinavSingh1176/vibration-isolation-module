@@ -1,0 +1,2 @@
+The Vibration Isolation Module is my first Mechanical Engineering personal project. I'm hoping to develop and learn skills essential to product development and real-world problem solving.
+Passive parallel-link vibration isolation module for a last-mile delivery robot's camera/LiDAR payload (2.5 kg) — MATLAB SDOF model → SolidWorks CAD → ANSYS FEA → BIDC fabrication → Arduino/MPU6050 validation. Target: ≥40% RMS acceleration reduction, model-vs-test agreement within 10%.
